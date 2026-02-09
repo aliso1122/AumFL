@@ -24,9 +24,9 @@ Lastly, we present the architecture of the project:
 * **control/global_training_algorithm.py** The algorithms for canonical FL, which are run by the server.
 
  
-* **control/MMULFED/ServerMMULFED.py** The codes of Server for GAMAFedAC.
-* **control/MMULFED/ClientMMULFED.py** The codes of client for GAMAFedAC.
-* **control/MMULFED/global_training_algorithm.py** The algorithms for GAMAFedAC, which are run by the server.
+* **control/MMULFED/ServerMMULFED.py** The codes of Server for AumFL.
+* **control/MMULFED/ClientMMULFED.py** The codes of client for AumFL.
+* **control/MMULFED/alignment_aware_global_training_algorithm.py** The algorithms for AumFL, which are run by the server.
 
 * **control/Manager.py** Every client has a manager for local training and the manager can be used by all types of clients in the project.
 
