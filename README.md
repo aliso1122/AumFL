@@ -1,6 +1,6 @@
 # Guidance to the project
 
-The top-layer parameters  are defined in  <font color=#008000 >control/Enums.py</font>, i.e. FLFramework, FLSubtype, LearningType and FLEnvironment. Browsing this file as the start can help you have a quick overview of the project.
+The top-layer parameters are defined in  <font color=#008000 >control/Enums.py</font>, i.e. FLFramework, FLSubtype, LearningType and FLEnvironment. Browsing this file as the start can help you have a quick overview of the project.
 
 The only main function of the project is written in <font color=#008000 >main.py</font>. Here we provide 4 scripts to run it with different settings.
 ```bash
